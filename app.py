@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("My First Streamlit Project")
+st.title("Ifra Streamlit App")
 st.write("this is the place where you can write anything you want")
 #for slider
 slider_value = st.slider("Select a value", 0, 100, 50)
